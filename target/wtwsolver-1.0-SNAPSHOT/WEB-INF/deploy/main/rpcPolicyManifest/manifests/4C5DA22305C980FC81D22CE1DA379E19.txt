@@ -1,2 +1,0 @@
-serviceClass: com.github.quorra.wtwsolver.client.GreetingService
-path: 0AFA9B1F043752F9A2F92ED8A6868ADD.gwt.rpc
